@@ -67,8 +67,8 @@ Built and tuned classification models (Random Forest, SVM) to predict wine quali
 
 ## 🏆 Achievements
 
-- 👥 **Smart India Hackathon 2024** – Shortlisted Team (Top 5)
-  > Problem Statement: Enhancing Rail Madad with AI-powered complaint handling and automation
+- 👥 **Smart India Hackathon 2024** – Shortlisted Team (Top 5)  
+  *Problem Statement: Enhancing Rail Madad with AI-powered complaint handling and automation*
 
 ---
 
@@ -81,10 +81,10 @@ Built and tuned classification models (Random Forest, SVM) to predict wine quali
 
 ## 📜 Certifications
 
-- ✔️ Machine Learning – Corizo
-- ✔️ Data Structures in Python – Udemy
-- ✔️ Prompt Engineering – Udemy
-- ✔️ AWS Certified Cloud Practitioner – Udemy
+- ✔️ Machine Learning – Corizo  
+- ✔️ Data Structures in Python – Udemy  
+- ✔️ Prompt Engineering – Udemy  
+- ✔️ AWS Certified Cloud Practitioner – Udemy  
 - ✔️ Java Programming – Harsha Informatics (Tirupati)
 
 ---
