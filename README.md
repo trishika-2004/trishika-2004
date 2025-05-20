@@ -52,7 +52,7 @@ A responsive web app built with HTML, CSS, and JavaScript for exploring modern h
 Simulated railway track layout and optimization using Data Structures (trees, graphs, lists) in Python for real-world route planning.
 
 ### 3. 📚 Education & Transport Web App
-A full-stack web platform (React.js, Node.js, Express.js, MongoDB) integrating personalized education content and transport services, using ML for route suggestions.
+A full-stack web platform (React.js, Node.js, MongoDB) integrating personalized education content and transport services, using generative AI.
 
 ### 4. 🏙️ Smart City Management System
 Built a cloud-deployable React-based platform to monitor and manage real-time municipal data using reusable components and APIs.
